@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1e016f6a-4b91-48bd-b1a8-651aa4da8d8a",
+    "data": [
+      {
+        "text": "about tc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0474033-a686-4df5-b099-0a9a9296af2c",
+    "data": [
+      {
+        "text": "about department of telecommunication",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f82e36b1-817c-4502-9a04-400c14369b53",
+    "data": [
+      {
+        "text": "about department of tce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39ae71d8-51ed-48e3-a313-1cf7b2da7316",
+    "data": [
+      {
+        "text": "about telecommunication engineering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7b74057-b905-4e51-acc2-1a862ac7d26d",
+    "data": [
+      {
+        "text": "about tce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

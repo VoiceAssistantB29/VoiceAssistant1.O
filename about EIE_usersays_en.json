@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b96a70fd-6660-40ab-b374-b1c203c97fdf",
+    "data": [
+      {
+        "text": "about eie department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8036d1e8-4709-4781-b56e-d766f017c5c3",
+    "data": [
+      {
+        "text": "about ei department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2607941-04d6-4214-9d0e-d83614b8b5a0",
+    "data": [
+      {
+        "text": "about Electronics and Instrumentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82ff511f-f769-4f49-87da-06ae0fa8b69f",
+    "data": [
+      {
+        "text": "about ei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec603720-afa9-461f-85a8-5c9430a8cb9c",
+    "data": [
+      {
+        "text": "about eie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "73bb94de-25f0-4125-8154-091bb0ca513f",
+    "data": [
+      {
+        "text": "companies arrived",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a57c9d1a-6e7f-4347-b942-8d714a62d779",
+    "data": [
+      {
+        "text": "top companies visited",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8408bfb3-b272-4d1f-8798-f4de4f346f91",
+    "data": [
+      {
+        "text": "companies visited",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

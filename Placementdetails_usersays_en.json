@@ -1,0 +1,74 @@
+[
+  {
+    "id": "778f0427-7f64-45b3-aaf4-a84756fbe2fa",
+    "data": [
+      {
+        "text": "placement information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "208e062a-6b9c-42d9-8c15-938dff8664ae",
+    "data": [
+      {
+        "text": "placement info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dbd76f4-a137-415b-ab03-06921a142962",
+    "data": [
+      {
+        "text": "about placement office",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "113d25b5-74d1-47ea-98ec-057c802d801a",
+    "data": [
+      {
+        "text": "placement department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd0ceaf8-d43f-41ba-9fbe-b718bfb6e333",
+    "data": [
+      {
+        "text": "about placement department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51d05699-365d-4744-9cbd-b75f3815fa41",
+    "data": [
+      {
+        "text": "placement details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

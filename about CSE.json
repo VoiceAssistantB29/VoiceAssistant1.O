@@ -1,0 +1,31 @@
+{
+  "id": "2cb47441-1d63-4d85-bb52-006c7678d11e",
+  "name": "about CSE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Department of computer science and Engineering at GSSSIETW was started in the year 2003. The CSE course is a four years Under-Graduate  program in Bachelor of Engineering, affiliated to Visvesvaraya Technological University Belgaum, Approved by All India Council for Technical Education , New Delhi and  The CSE UG program is accredited by NBA.The head of the department is  Dr. S. Meenakshi Sundaram. Intake of the department is 120.The department has 21 teaching staff and 5 non teaching staff.What else can I do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

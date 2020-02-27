@@ -1,0 +1,31 @@
+{
+  "id": "97700031-5a4b-43bc-924a-1df60c3a48eb",
+  "name": "vision and mission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "vision is to become a recognized world class Women Educational Institution, by imparting professional education to the students, creating technical opportunities through academic excellence and technical achievements,with ethical values.Mission is to support value based education with state of art infrastructure.\nTo empower women with the additional skill for professional future career\nTo enrich students with research blends in order to fulfill the International challenges\nTo create multidisciplinary center of excellence.What else can I do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

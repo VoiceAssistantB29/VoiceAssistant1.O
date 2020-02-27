@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a5530cbb-20d4-4b23-ba47-b0cb7e5cd38c",
+    "data": [
+      {
+        "text": "about cs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8b09052-064e-4ae2-a46f-1aeaac93ce3f",
+    "data": [
+      {
+        "text": "about department of cse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6adbb7f1-0b7f-4bc9-bd7f-c41b3edea828",
+    "data": [
+      {
+        "text": "about computer science and engineering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8206a5a-7ddb-43d1-b2f5-fcd9345434de",
+    "data": [
+      {
+        "text": "about cs department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "414a1ceb-edf8-4851-a62c-0a39c5a6918f",
+    "data": [
+      {
+        "text": "about computer science department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58da200d-003c-45ce-8976-7ec0b8c1ccac",
+    "data": [
+      {
+        "text": "About cse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "519f024b-3058-48ca-9cb9-df3d55b5fe45",
+    "data": [
+      {
+        "text": "about department of ise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9cd4169-d91d-4123-b4a3-61ec4a72d77e",
+    "data": [
+      {
+        "text": "about information science and engineering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70ed02ce-d7fd-4f8d-ab07-dde966904612",
+    "data": [
+      {
+        "text": "about is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d30f763-9e27-41d5-9c89-78d0eb3eb3b3",
+    "data": [
+      {
+        "text": "about ise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d7e90cd6-c452-40e7-b0ec-2214b86a654e",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1edb0e52-5953-45aa-9b72-d00e48e918d2",
+    "data": [
+      {
+        "text": "send gmail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac74bb1-3191-4cb7-826e-4b7136ae6078",
+    "data": [
+      {
+        "text": "send mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7df4b76-1280-474f-a745-2d9938997520",
+    "data": [
+      {
+        "text": "send email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

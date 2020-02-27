@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4b579600-55b1-4b3e-8894-9ecdbcaa8e82",
+    "data": [
+      {
+        "text": "about electronics and communication engineering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a480ee9-a7d1-4a16-a247-7b6d86959ab7",
+    "data": [
+      {
+        "text": "about electronics and communication department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7b1aa7e-2b68-4071-a230-bfa6bc806346",
+    "data": [
+      {
+        "text": "about department of ece",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e65bb2c6-014f-4c2e-b197-fef842eff2be",
+    "data": [
+      {
+        "text": "about ec",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b22b5140-df7c-4fe6-ba5e-16699cee9962",
+    "data": [
+      {
+        "text": "about ece",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "ac1acebd-9d80-40dc-aa2b-a4adcac3ded1",
+  "name": "about_ise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Department of Information Science and Engineering became a part of this esteemed organization in the year 2003 with intake of 60 students. It is recognized by All India Council for Technical Education, New Delhi, India and affiliated to Visvesvaraya Technological University, Belagavi, Karnataka and The ISE UG program is accredited by NBA.Intake of department is 60.The head of department is Doctor Reshma Banu .  The department has 8 teaching and 4 non teaching staffs.What else can I do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

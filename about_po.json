@@ -1,0 +1,31 @@
+{
+  "id": "19e3e6b5-9e14-4cce-96b9-c60882b6b0e0",
+  "name": "about_po",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The head of placement and training department is Mahadeva Prasad S.He has successfully placed 1900+ fresher’s (On \u0026 Off campus) and 400+ experienced candidates  in well known companies during last 7+ years. What else can i do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

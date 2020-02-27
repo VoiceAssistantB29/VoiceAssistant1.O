@@ -1,0 +1,31 @@
+{
+  "id": "e100aa45-1e27-4ec0-b369-2e2faebd74f2",
+  "name": "Placementdetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Head of Training \u0026 Placement department is Mr. Mahadeva Prasad S. To build, motivate and enhance the knowledge of the students towards the recruitment and interview process traning is conducted by face  and bizotic company.The highlight of this year’s placement season was participation of Premium Recruiters like Juniper, Amazon, Applied Materials, philips,HPE-R\u0026D etc.309 students are placed till date in 2020 batch.what else can i do for u?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cbcb6e59-37b2-4df2-adac-91e1930aeadb",
+  "name": "companies visited",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The highlight of this year’s placement season was participation of Premium Recruiters like juniper, Amazon, GE Digital, Philips,Thought works,Applied Materials,  Informatica, ABB ltd,  Jaro Group, Accenture,Capgemini,Ernst \u0026 Young,Altran etc.what else can i do for u?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

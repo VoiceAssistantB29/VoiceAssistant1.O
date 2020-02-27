@@ -1,0 +1,59 @@
+[
+  {
+    "id": "c7f444d0-fd4c-4545-b3f7-11c1707446e3",
+    "data": [
+      {
+        "text": "g triple s vision misson",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44b783b0-8476-40ac-8abe-2ab380350a02",
+    "data": [
+      {
+        "text": "vision and mission of g triple s",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3562149-7b01-49a8-89bc-b56bd5674547",
+    "data": [
+      {
+        "text": "vision and mission of g triple s ietw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98778f77-5487-44c7-9b26-63136d47330d",
+    "data": [
+      {
+        "text": "vision and ",
+        "userDefined": false
+      },
+      {
+        "text": "mission",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

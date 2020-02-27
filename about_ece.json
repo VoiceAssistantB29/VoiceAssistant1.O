@@ -1,0 +1,31 @@
+{
+  "id": "1f0d9743-dc83-4828-ad4f-94b43539a7d3",
+  "name": "about_ece",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Department of Electronics and Communication Engineering at GSSSIETW was started in the year 2003,affiliated to Visvesvaraya Technological University  Belgaum, Approved by All India Council for Technical Education, New Delhi and  The ECE UG program is accredited by NBA.Intake of department is 180.The head of department is Doctor Rajendra R Patil .  The department has 22 teaching and 5 non teaching staffs.What else can I do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

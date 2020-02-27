@@ -1,0 +1,31 @@
+{
+  "id": "4b50e4fa-074b-45b8-b56a-ca88ac0724d9",
+  "name": "about EEE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Department of Electrical and Electronics Engineering was established in the year 2003, with an intake of 60 students. Strength of the department lies in the teaching and technical staff. The head of the department is Dr. P S Puttaswamy.The department has 12 teaching staff and 5 technical staff.What else can I do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

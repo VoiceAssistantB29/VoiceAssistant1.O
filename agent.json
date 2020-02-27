@@ -1,0 +1,107 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "geetha-uvabku",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "cd426309-c8ad-4e6b-a8e1-03eb2a73c61e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2cde5174-d253-435a-8a4d-36ebc76d3e2d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1f0d9743-dc83-4828-ad4f-94b43539a7d3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a1193f71-7f93-4caf-b71b-8fbb0b127a9b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4b50e4fa-074b-45b8-b56a-ca88ac0724d9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "32f23496-b424-4ccb-8dc5-90ff33a97fb3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2cb47441-1d63-4d85-bb52-006c7678d11e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "97700031-5a4b-43bc-924a-1df60c3a48eb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ac1acebd-9d80-40dc-aa2b-a4adcac3ded1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "19e3e6b5-9e14-4cce-96b9-c60882b6b0e0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cbcb6e59-37b2-4df2-adac-91e1930aeadb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e100aa45-1e27-4ec0-b369-2e2faebd74f2",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f8b06c91-9429-4b37-9256-df772519f277",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "2cde5174-d253-435a-8a4d-36ebc76d3e2d"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "https://us-central1-geetha-uvabku.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

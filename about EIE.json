@@ -1,0 +1,31 @@
+{
+  "id": "32f23496-b424-4ccb-8dc5-90ff33a97fb3",
+  "name": "about EIE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Department of Instrumentation Technology was established in the year 2006-07 with an annual intake of 60 students and renamed as Electronics and Instrumentation Engineering in the year 2014.The EIE UG program is accredited by NBA.Intake of department is 60. The department has 9 teaching and 3 non teaching staff.What else can I do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

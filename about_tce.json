@@ -1,0 +1,31 @@
+{
+  "id": "a1193f71-7f93-4caf-b71b-8fbb0b127a9b",
+  "name": "about_tce",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Department of Information Science and Engineering became a part of this esteemed organization in the year 2006 with intake of 60 students. It is recognized by All India Council for Technical Education, New Delhi, India and affiliated to Visvesvaraya Technological University, Belagavi, Karnataka and The TCE UG program is accredited by NBA.Intake of department is 60.The head of department is Doctor Parameshachari B D .  The department has 11 teaching and 2 non teaching staffs.What else can I do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

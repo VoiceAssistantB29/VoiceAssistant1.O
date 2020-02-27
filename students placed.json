@@ -1,0 +1,31 @@
+{
+  "id": "f8b06c91-9429-4b37-9256-df772519f277",
+  "name": "students placed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "309 students are placed till date in 2020 batch.CSE tops with 102 placements , 85 in ECE, 49 in ISE, 30 in EEE, 15 in TCE, 27 in EIE .what else  can i do for u?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
